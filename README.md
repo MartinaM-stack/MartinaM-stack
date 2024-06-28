@@ -2,8 +2,7 @@
 - 👀 I’m interested in learning the basics and then specialising in one or more coding languages
 - 🌱 I’m currently learning foundations @ the Odin Project.. open to suggestions!
 - 💞️ I’m looking to collaborate on projects that help me learn how to work
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me - here!
 - ⚡ Fun fact: 
 
 <!---
